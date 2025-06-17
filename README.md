@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ybdn
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML, CSS & JavaScript
-- 💞️ I’m not looking to collaborate now 
+- 🌱 I’m currently learning JavaScript & Python
 - 📫 How to reach me : DM
 
 <!---
