@@ -1,6 +1,6 @@
 # Salut 👋 Je suis Yoann !
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur autodidacte passionné basé en France. Je suis actuellement en pleine exploration du monde du développement et j'adore apprendre de nouvelles choses.
+Bienvenue sur mon profil GitHub ! Je suis un développeur autodidacte basé en France. Je suis en pleine exploration du monde du développement et j'adore apprendre de nouvelles choses.
 
 ## 🚀 Mes compétences actuelles & ce sur quoi je travaille
 
