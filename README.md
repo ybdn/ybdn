@@ -1,10 +1,8 @@
-# Salut 👋 
+# Salut !
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur autodidacte basé en France. 
+Bienvenue sur mon profil GitHub !
 
 ## 🚀 Mes compétences actuelles & ce sur quoi je travaille
-
-Voici un aperçu de mes langages et technologies de prédilection, ainsi que ceux que je suis en train d'apprendre :
 
 * **Python :** Je débute et j'explore les bases. J'ai hâte de construire des projets plus complexes avec ce langage !
 * **HTML :** Notions basiques. Je peux structurer des pages web simples.
@@ -13,7 +11,7 @@ Voici un aperçu de mes langages et technologies de prédilection, ainsi que ceu
 
 ## 🌱 Ce que j'apprends en ce moment
 
-Je suis activement en train d'approfondir mes connaissances en Python. Mon objectif est de maîtriser ce langage pour développer des applications backend, des scripts d'automatisation, et pourquoi pas, me lancer dans la data science à terme.
+Je suis activement en train d'approfondir mes connaissances en Python. Mon objectif est de maîtriser ce langage pour développer des applications backend, des scripts d'automatisation.
 
 ## 🎯 Mes objectifs pour mes projets GitHub
 
@@ -21,6 +19,7 @@ Je suis activement en train d'approfondir mes connaissances en Python. Mon objec
 * Créer des mini-projets pour solidifier mes bases en HTML, CSS et JavaScript.
 * Contribuer à des projets open-source (quand je me sentirai plus à l'aise !).
 * Documenter clairement mon processus d'apprentissage et mes découvertes.
+* Appréhender React.
 
 ## 💬 Comment me contacter
 
