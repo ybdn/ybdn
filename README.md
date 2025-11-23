@@ -1,29 +1,73 @@
-# Salut !
+# 🌋 ybdn — développeur outils, automatisation & biométrie  
+### Fondateur de **@Grisou-Lab** • Créateur d’outils techniques & d’écosystèmes complets  
 
-Bienvenue sur mon profil GitHub !
+---
 
-## 🚀 Mes compétences actuelles & ce sur quoi je travaille
+## 🔥 À propos  
+Développeur orienté **outils, automatisatisation et biométrie**, je crée des applications, extensions et services destinés à optimiser des workflows techniques et complexes.
 
-* **Python :** Je débute et j'explore les bases. J'ai hâte de construire des projets plus complexes avec ce langage !
-* **HTML :** Notions basiques. Je peux structurer des pages web simples.
-* **CSS :** Notions basiques. Je travaille sur l'amélioration de mes compétences en stylisation pour rendre mes projets plus attrayants.
-* **JavaScript :** Vagues notions. Je commence à comprendre les bases de l'interactivité côté client.
+Architecte de mes propres projets, je travaille sur :  
+✔️ le développement  
+✔️ la documentation  
+✔️ l’infrastructure  
+✔️ le packaging / CI-CD  
+✔️ la vision long terme
 
-## 🌱 Ce que j'apprends en ce moment
+Fondateur de **@Grisou-Lab**, un espace open-source dédié aux outils, à la formation et à l'amélioration continue.
 
-Je suis activement en train d'approfondir mes connaissances en Python. Mon objectif est de maîtriser ce langage pour développer des applications backend, des scripts d'automatisation.
+---
 
-## 🎯 Mes objectifs pour mes projets GitHub
+# 🛠️ Stack & compétences
 
-* Appliquer les concepts que j'apprends en Python.
-* Créer des mini-projets pour solidifier mes bases en HTML, CSS et JavaScript.
-* Contribuer à des projets open-source (quand je me sentirai plus à l'aise !).
-* Documenter clairement mon processus d'apprentissage et mes découvertes.
-* Appréhender React.
+### 🚀 Langages  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 
-## 💬 Comment me contacter
+### 🧰 Frameworks & outils  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?logo=traefikproxy&logoColor=white)
+![Caddy](https://img.shields.io/badge/-Caddy-1F88C7?logo=caddy&logoColor=white)
+![Portainer](https://img.shields.io/badge/-Portainer-13BEF9?logo=portainer&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4C89?logo=n8n&logoColor=white)
+![VS Code Server](https://img.shields.io/badge/-code--server-007ACC?logo=visualstudiocode&logoColor=white)
 
-N'hésitez pas à me contacter si vous avez des questions, des conseils ou si vous voulez simplement échanger sur le développement !
+### ⚙️ DevOps & workflow  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![OVHcloud](https://img.shields.io/badge/-OVH%20VPS-123F6D?logo=ovh&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-000000?logo=github&logoColor=white)
 
-* **LinkedIn :** [ton-profil](https://www.linkedin.com/in/yoann-baudrin-235302245/)
-* **Twitter :** Merci de votre visite et à bientôt !
+---
+
+# 🧩 Projets principaux
+
+## 🔍 **NIST Studio**
+Suite biométrique complète : Viewer, Compare, PDF, Image2NIST.  
+📦 Build cross-platform • 🧠 Traitement ANSI/NIST-ITL • 🔬 Tools experts
+
+## 🎓 **ORACLE & LRPP**  
+Apps mobiles/web de révision (textes à trous, dictées, examens, QCM).  
+📱 React Native • 🎯 Formation • 🗂 Gestion complète des documents
+
+## ⚙️ **T41 Assistant**  
+Extension Firefox automatisée :  
+▶️ Détection de contexte • 🔁 Boucle d’exécution • ⚡ Traitement dynamique
+
+## 📚 **DFAED Hub**  
+Portail interne DSFR : documentation, accès simplifié, UX propre & cohérente.
+
+## 🏭 **Grisou-Lab**  
+Organisation open-source dédiée :  
+🛠 outils • 📚 documentation • 🤖 automatisations • 🎓 formation
+
+---
+
+# 📬 Me contacter  
+📎 **LinkedIn :** https://www.linkedin.com/in/yoann-baudrin-235302245/  
+🏭 **GitHub Orga :** https://github.com/Grisou-Lab
